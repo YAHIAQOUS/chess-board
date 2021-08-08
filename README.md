@@ -20,4 +20,4 @@ Each board will have one red and one blue queen at different coordinates. In add
 
 &nbsp;
 
-**PR Link**: <https://github.com/YAHIAQOUS/chess-board/pull/1>
+**PR Link**: <https://github.com/YAHIAQOUS/chess-board/pull/2>
