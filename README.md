@@ -6,6 +6,8 @@ Today we’ll be constructing chess boards like it’s 1980.
 
 No prebuilt images, just the power of arrays and pixel art.
 
+&nbsp;
+
 ## Feature Tasks and Requirements
 
 The target is to render out chess boards with **red and blue queens** on them.
@@ -16,4 +18,6 @@ Chess board is an **8 by 8 grid** of alternating black and white squares. The qu
 
 Each board will have one red and one blue queen at different coordinates. In addition to displaying the board it’ll need to identify if the queens are “under attack” based on their coordinates.
 
-PR Link:
+&nbsp;
+
+**PR Link**: <https://github.com/YAHIAQOUS/chess-board/pull/1>
